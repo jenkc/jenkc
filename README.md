@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Machine Learning Projects on Kaggle!
+- 🌱 I’m currently learning Discrete Structures, Linear Algebra, Data Structures & Algorithms
+- 📫 How to reach me: jenkimkc@gmail.com OR admin@linuxgrrrl.com
+
+Hello world! My name is Jennifer. I love to learn and am interested in teaching machines to do the same! I am looking forward to contributing and collaborating!
 
 <!--
 **jenkc/jenkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
