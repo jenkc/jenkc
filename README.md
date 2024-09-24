@@ -1,9 +1,12 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Machine Learning Projects on Kaggle!
-- 🌱 I’m currently learning Discrete Structures, Linear Algebra, Data Structures & Algorithms
-- 📫 How to reach me: jenkimkc@gmail.com OR admin@linuxgrrrl.com
+- 🌱 I’m currently learning Discrete Structures and Linear Algebra!
+- 🤔 I’m looking for help with launching a carreer in data and programming!
+- ⚡ Hobbies: classical violin, Tai Chi, meditation, kayaking, reading novels and sci-fi, journaling
 
-Hello world! My name is Jennifer. I love to learn and am interested in teaching machines to do the same! I am looking forward to contributing and collaborating!
+- 📫 How to reach me: jenkimkc@gmail.com
+
+Hello world! My name is Jennifer. I love to learn and am interested in how we do that and how we can teach our machines to do the same! I am looking forward to contributing and collaborating! Let's do cool things together!
 
 <!--
 **jenkc/jenkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
