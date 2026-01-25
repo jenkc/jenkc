@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Machine Learning Projects on Kaggle!
-- 🌱 I’m currently learning Discrete Structures and Linear Algebra!
+- 🌱 I’m currently studying Linear Algebra and multi-modal vector embeddings!
 - 🤔 I’m looking for help with launching a carreer in data and programming!
 - ⚡ Hobbies: classical violin, Tai Chi, meditation, kayaking, reading novels and sci-fi, journaling
 
